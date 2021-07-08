@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sherri Winslow; my github is: @SherriW
+- 👋 Hi, I’m Sherri Winslow; @SherriW
 - 👀 I’m interested in becoming a Full-Stack Developer and obtaining a position in the field that will also allow me to run a couple of my own online businesses.
 - 🌱 I’m currently learning coding from the University of Connecticut Coding BootCamp 
 - 💞️ I’m looking to collaborate on ... TBA
