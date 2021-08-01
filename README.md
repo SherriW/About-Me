@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sherri Winslow; @SherriW
-- 👀 I’m interested in becoming a Full-Stack Developer and obtaining a position in the field that will also allow me to run a couple of my own online businesses.
-- 🌱 I’m currently learning coding from the University of Connecticut Coding BootCamp 
+- 👀 I am a Full-Stack Developer and will be looking for a full, or part-time, position in Development, and accepting a few select clients in January of 2021
+- 🌱 I’m currently continuing my certification through the University of Connecticut.
 - 💞️ I’m looking to collaborate on ... TBA
 - 📫 How to reach me - coding@sherriwinslow.com
 
